@@ -1,6 +1,6 @@
 # ﻿Climate Analysis in Hawaii
 For a long holiday vacation in Honolulu, Hawaii. To help with my trip planning, 
-I decide to do a climate analysis about the area. The following sections outline the steps that I will need to take to accomplish this task.
+I need to do a climate analysis about the area. The following sections outline the steps that I will need to take to accomplish this task.
  
 ## Part 1: Analyze and Explore the Climate Data
 In this section, I will use Python and SQLAlchemy to do a basic climate analysis and data exploration of my climate database. Specifically, I wil use SQLAlchemy ORM queries, Pandas, and Matplotlib. To do so, I will complete the following steps:
@@ -28,7 +28,7 @@ In this section, I will use Python and SQLAlchemy to do a basic climate analysis
 ### •	Query the previous 12 months of TOBS data for that station.
 ### •	Plot the results as a histogram.
 ## Part 2: Design Your Climate App
-### Now that I have completed my initial analysis, I will design a Flask API based on the queries that I just developed. To do so, I will use Flask to create my routes as follows:
+### Now that I have completed my initial analysis, I need to design a Flask API based on the queries that I just developed. To do so, I will use Flask to create my routes as follows:
 ### •	Start at the homepage.
 ### •	List all the available routes.
 ### •	Convert the query results to a dictionary by using date as the key and prcp as the value.
