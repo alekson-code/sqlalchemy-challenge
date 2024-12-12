@@ -26,7 +26,7 @@ In this section, I will use Python and SQLAlchemy to do a basic climate analysis
 ### •	Design a query to get the previous 12 months of temperature observation (TOBS) data. To do so, complete the following steps:
 ### •	Filter by the station that has the greatest number of observations.
 ### •	Query the previous 12 months of TOBS data for that station.
-### •	Plot the results as a histogram with bins=12.
+### •	Plot the results as a histogram.
 ## Part 2: Design Your Climate App
 ### Now that I have completed my initial analysis, I will design a Flask API based on the queries that I just developed. To do so, I will use Flask to create my routes as follows:
 ### •	Start at the homepage.
