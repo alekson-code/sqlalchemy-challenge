@@ -4,7 +4,7 @@ I decide to do a climate analysis about the area. The following sections outline
  
 ## Part 1: Analyze and Explore the Climate Data
 In this section, I will use Python and SQLAlchemy to do a basic climate analysis and data exploration of my climate database. Specifically, I wil use SQLAlchemy ORM queries, Pandas, and Matplotlib. To do so, I will complete the following steps:
-•	Note that I will use the provided files (climate_starter.ipynb and hawaii.sqlite) to complete my climate analysis and data exploration.
+### •	Note that I will use the provided files (climate_starter.ipynb and hawaii.sqlite) to complete my climate analysis and data exploration.
 •	Use the SQLAlchemy create_engine() function to connect to my SQLite database.
 •	Use the SQLAlchemy automap_base() function to reflect my tables into classes, and then save references to the classes named station and measurement.
 •	Link Python code to the database by creating a SQLAlchemy session.
